@@ -1,0 +1,8 @@
+{
+    "urls": [
+        ["pn532/__init__.py", "github:sebromero/micropython-pn532/src/pn532/__init__.py"],
+        ["pn532/pn532.py", "github:sebromero/micropython-pn532/src/pn532/pn532.py"]
+    ],
+    "deps": [],
+    "version": "1.0.0"
+}
